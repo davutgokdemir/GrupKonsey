@@ -20,4 +20,4 @@ Sağ kısımda grup üyelerinin resimleri ve grubun adı eklenmiştir. Menü kı
 
 Bu proje Hacettepe Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü, BTÖ312 Çoklu Ortam Tasarımı Ve Üretimi dersi finali için hazırlanmıştır.
  
-Sitenin Footer bölümünde Site Haritası, İletişim bilgileri ve telif hakkına sahip olan Hacettepe Üniversitesi logosu mevcuttur.
+Sitenin footer bölümünde site haritası, iletişim bilgileri ve çoklu ortam tasarımı dersi kapsamında hazırlanan bir proje olduğu için telif hakkına sahip olan Hacettepe Üniversitesi logosu mevcuttur.
