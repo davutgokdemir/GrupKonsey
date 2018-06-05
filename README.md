@@ -38,3 +38,5 @@ https://photos.app.goo.gl/B97C3aPLWLVh8cCg7
 
 Bu proje Hacettepe Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü, BTÖ312 Çoklu Ortam Tasarımı Ve Üretimi dersi finali için hazırlanmıştır.
 
+Proje kapsamında oluşturulan sitenin footer kısmında site haritası,iletişim bölümü ve çoklu ortam tasarımı ve üretimi dersi kapsamında hazırlanan bir proje olduğu için Hacettpe Üniversitesi logosu yer alıyor. 
+
